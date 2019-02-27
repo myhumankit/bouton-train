@@ -6,7 +6,7 @@
         "lang": "fr",
         "version": "0.1.0",
         "featured_image": {
-            "url": "images/mhk_logotype.png"
+            "url": "images/bouton-train.jpg"
         },
         "links": [
             {
@@ -31,6 +31,17 @@
             }
         ],
         "contributors": [
+            {
+                "full_name": "Guillaume Sabin",
+                "email": "guillaume@myhumankit.org",
+                "role": "Porteur de projet"
+            },
+            {
+                "full_name": "Yohann Véron",
+                "email": "yo@myhumankit.org",
+                "github_username": "dubhalley",
+                "role": "Fabmanager référent"
+            },
             {
                 "full_name": "Julien Lebunetel",
                 "email": "julien@myhumankit.org",

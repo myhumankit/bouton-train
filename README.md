@@ -1,7 +1,7 @@
 # Bouton train
 Un simple bouton pour allumer un jouet pour enfant en forme de train.
 
-![featured_image](images/mhk_logotype.png)
+![featured_image](images/bouton-train.jpg)
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/bouton-train)
@@ -36,6 +36,8 @@ Si vous souhaitez contribuer au projet, merci de créer une _issue_ ou de _forke
 Ce projet est diffusé sous la licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de details.
 
 ## Contributeurs
+ * **Guillaume Sabin**
+ * **Yohann Véron** - [dubhalley](https://github.com/dubhalley)
  * **Julien Lebunetel** - [jlebunetel](https://github.com/jlebunetel)
 
 ---
@@ -75,4 +77,6 @@ If you'd like to contribute, please raise an issue or fork the repository and us
 The code in this project is licensed under MIT license. See the [LICENSE](LICENSE) file for details.
 
 ## Contributors
+ * **Guillaume Sabin**
+ * **Yohann Véron** - [dubhalley](https://github.com/dubhalley)
  * **Julien Lebunetel** - [jlebunetel](https://github.com/jlebunetel)
