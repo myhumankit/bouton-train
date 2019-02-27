@@ -1,0 +1,42 @@
+{
+    "project": {
+        "full_name": "Bouton train",
+        "slug": "bouton-train",
+        "short_description": "Un simple bouton pour allumer un jouet pour enfant en forme de train.",
+        "lang": "fr",
+        "version": "0.1.0",
+        "featured_image": {
+            "url": "images/mhk_logotype.png"
+        },
+        "links": [
+            {
+                "url": "https://rennes.humanlab.me/projet/bouton-train/",
+                "title": "page d'accueil du projet sur le GesLab",
+                "fa5_icon": "fas fa-home"
+            },
+            {
+                "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Bouton_train",
+                "title": "page wiki du projet sur le wiki du Humanlab",
+                "fa5_icon": "fab fa-wikipedia-w"
+            },
+            {
+                "url": "https://framateam.org/myhumankit/channels/petits-projets",
+                "title": "canal de discussion sur Framateam",
+                "fa5_icon": "fas fa-comments"
+            },
+            {
+                "url": "https://github.com/myhumankit/bouton-train",
+                "title": "code source de la documentation sur GitHub",
+                "fa5_icon": "fab fa-github"
+            }
+        ],
+        "contributors": [
+            {
+                "full_name": "Julien Lebunetel",
+                "email": "julien@myhumankit.org",
+                "github_username": "jlebunetel",
+                "role": "Fabmanager référent"
+            }
+        ]
+    }
+}
