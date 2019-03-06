@@ -1,4 +1,7 @@
 # Bouton train
+![proto](https://img.shields.io/badge/proto-réalisé-success.svg "proto")
+![doc](https://img.shields.io/badge/doc-en%20cours-orange.svg "doc")
+
 Un simple bouton pour allumer un jouet pour enfant en forme de train.
 
 ![featured_image](images/bouton-train.jpg)
