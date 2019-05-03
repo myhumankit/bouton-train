@@ -5,7 +5,7 @@
         "short_description": "Un simple bouton pour allumer un jouet pour enfant en forme de train.",
         "lang": "fr",
         "license": "CC BY",
-        "about": "Un simple bouton pour allumer un jouet pour enfant en forme de train.",
+        "about": "Un simple bouton en forme de train pour allumer un jouet à distance.",
         "featured_images": [
             {
                 "image": {
@@ -53,6 +53,27 @@
                 "role": "Contributeur",
                 "email": "julien@myhumankit.org",
                 "github_username": "jlebunetel"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Démonter la télécommande",
+                "duration": 30,
+                "content": "Il faut démonter la télécommande afin de brancher le bouton du cube train en parallèle du bouton de la télécommande afin que les 2 déclenchent la fermeture du relais.",
+                "media": [
+                    {
+                        "image": {
+                            "url": "",
+                            "caption": "images télécommande a démonter"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "",
+                            "caption": "Image télécommande démontée"
+                        }
+                    }
+                ]
             }
         ]
     }
