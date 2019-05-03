@@ -4,8 +4,8 @@
         "slug": "bouton-train",
         "short_description": "Un simple bouton pour allumer un jouet pour enfant en forme de train.",
         "lang": "fr",
-        "license": "CC BY",
-        "about": "Un simple bouton en forme de train pour allumer un jouet à distance.",
+        "license": "CC BY-SA",
+        "about": "Un simple bouton dans un cube imprimé en 3D agrémenté d'une forme de train pour allumer un jouet à distance.",
         "featured_images": [
             {
                 "image": {
@@ -64,13 +64,23 @@
                     {
                         "image": {
                             "url": "",
-                            "caption": "images télécommande a démonter"
+                            "caption": "images de la télécommande a démonter"
                         }
                     },
                     {
                         "image": {
                             "url": "",
                             "caption": "Image télécommande démontée"
+                        }
+                    }
+                ],
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "kit-telecommande-et-relais",
+                            "quantity": 1,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
                         }
                     }
                 ]
