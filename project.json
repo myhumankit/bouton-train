@@ -84,6 +84,16 @@
                         }
                     }
                 ]
+            },
+            {
+                "title": "Dériver les connections",
+                "duration": 300,
+                "content": "Ils faut souder 2 fils en parallèle du bouton afin que le bouton d'origine et le bouton ajouté puissent tous les 2 activer la télécommande.\n\nPuis, déssouder la led et souder 2 fils à sa place, ensuite relier ces fils à la led située dans le bouton.\n\nTester l'allumage de la led dans le nouveau bouton."
+            },
+            {
+                "title": "Démonter le jouet",
+                "duration": 300,
+                "content": "Ouvrir le jouet."
             }
         ]
     }
