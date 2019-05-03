@@ -4,49 +4,55 @@
         "slug": "bouton-train",
         "short_description": "Un simple bouton pour allumer un jouet pour enfant en forme de train.",
         "lang": "fr",
-        "version": "0.1.0",
-        "featured_image": {
-            "url": "images/bouton-train.jpg"
-        },
+        "license": "CC BY",
+        "about": "Un simple bouton pour allumer un jouet pour enfant en forme de train.",
+        "featured_images": [
+            {
+                "image": {
+                    "url": "images/bouton-train.jpg",
+                    "caption": "Bouton train"
+                }
+            }
+        ],
         "links": [
             {
                 "url": "https://rennes.humanlab.me/projet/bouton-train/",
-                "title": "page d'accueil du projet sur le GesLab",
+                "text": "page d'accueil du projet sur le GesLab",
                 "fa5_icon": "fas fa-home"
             },
             {
                 "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Bouton_train",
-                "title": "page wiki du projet sur le wiki du Humanlab",
+                "text": "page wiki du projet sur le wiki du Humanlab",
                 "fa5_icon": "fab fa-wikipedia-w"
             },
             {
                 "url": "https://framateam.org/myhumankit/channels/petits-projets",
-                "title": "canal de discussion sur Framateam",
+                "text": "canal de discussion sur Framateam",
                 "fa5_icon": "fas fa-comments"
             },
             {
                 "url": "https://github.com/myhumankit/bouton-train",
-                "title": "code source de la documentation sur GitHub",
+                "text": "code source de la documentation sur GitHub",
                 "fa5_icon": "fab fa-github"
             }
         ],
         "contributors": [
             {
                 "full_name": "Guillaume Sabin",
-                "email": "guillaume@myhumankit.org",
-                "role": "Porteur de projet"
+                "role": "Porteur de projet",
+                "email": "guillaume@myhumankit.org"
             },
             {
                 "full_name": "Yohann Véron",
+                "role": "Fabmanager référent",
                 "email": "yo@myhumankit.org",
-                "github_username": "dubhalley",
-                "role": "Fabmanager référent"
+                "github_username": "dubhalley"
             },
             {
                 "full_name": "Julien Lebunetel",
+                "role": "Contributeur",
                 "email": "julien@myhumankit.org",
-                "github_username": "jlebunetel",
-                "role": "Fabmanager référent"
+                "github_username": "jlebunetel"
             }
         ]
     }
